@@ -1,1 +1,1 @@
-Se genera proyecto en react para la búsqueda de gift e imagenes
+Se genera proyecto en react para la búsqueda de gift e imágenes
