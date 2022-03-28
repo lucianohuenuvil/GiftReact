@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.adduser-container{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.adduser-container h1{
+    text-align: center;
+}
